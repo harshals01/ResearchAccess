@@ -1,0 +1,15 @@
+[package]
+name = "Subscription-free-academic-research-papers"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x4b80b523c60a0ee52286d49874daea7a20985e05a8ac5676d1ea5a7102f47871"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
