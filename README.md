@@ -16,3 +16,4 @@ The project aims to democratize access to academic research by enabling direct t
 ## Contract Details
 **Contract Address:** "0x92e9ff54eda1a64f00e8beb1a050cd1969a25f5a067df4706a825611b3df1ed0"
 
+![image](https://github.com/user-attachments/assets/78f8b56e-c419-4c5f-a968-41e6c64b0c26)
